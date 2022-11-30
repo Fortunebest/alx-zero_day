@@ -1,1 +1,1 @@
-The Lord is good
+My first readme is updated and git pull is commited
